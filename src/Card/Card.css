@@ -1,0 +1,24 @@
+.card {
+  background-color: grey;
+  max-width: 375px;
+  height: 600px;
+  border-radius: 15px;
+  }
+
+.card-image {
+  /* height: ; */
+  width: 340px;
+  margin-top: 1em;
+  margin-left: 1em;
+  /* width: 90%; */
+}
+
+.card-title{
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+}
+
+.card-description{
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+}
